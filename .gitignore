@@ -1,0 +1,56 @@
+# 通用系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / 编辑器
+.idea/
+.history/
+.vs/
+.vscode/*
+*.code-workspace
+
+# 日志与临时文件
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Node / 前端
+node_modules/
+dist/
+build/
+out/
+.next/
+.nuxt/
+.cache/
+coverage/
+pnpm-debug.log
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Java / Kotlin / Android
+*.class
+*.jar
+*.war
+*.ear
+.gradle/
+/.idea/
+local.properties
+/captures/
+
+# 其他自动生成内容
+tmp/
+.temp/
+*.lock~
